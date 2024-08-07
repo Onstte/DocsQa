@@ -22,9 +22,9 @@
   * [🧑 Inviting Members](figma/guia-pratico-para-qa-com-figma/inviting-members.md)
 * [⚙️ Extensões para Teste Web](figma/extensoes-para-teste-web.md)
 * [☑️ Checklist do figma](figma/checklist-do-figma/README.md)
-  * [🎨 For Designers](figma/checklist-do-figma/for-designers.md)
+  * [🎨 Regras de Sistema](figma/checklist-do-figma/regras-de-sistema.md)
 * [📓 Nomenclaturas](figma/nomenclaturas.md)
 
-## Use Cases
+## Scripts
 
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🖥️ Scripts](scripts/scripts.md)
