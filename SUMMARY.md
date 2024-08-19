@@ -8,6 +8,7 @@
 * [📄 Documentação](bug/documentacao.md)
 * [📍 Tipos de issue](bug/tipos-de-issue.md)
 * [✨ Bugs universais](bug/bugs-universais.md)
+* [Classificações de Bug](bug/classificacoes-de-bug.md)
 
 ## Zephyr
 
