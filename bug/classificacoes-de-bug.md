@@ -1,3 +1,7 @@
+---
+icon: computer-classic
+---
+
 # Classificações de Bug
 
 Funcionalidade:\
