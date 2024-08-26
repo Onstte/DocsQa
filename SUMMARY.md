@@ -9,6 +9,7 @@
 * [📍 Tipos de issue](bug/tipos-de-issue.md)
 * [✨ Bugs universais](bug/bugs-universais.md)
 * [Classificações de Bug](bug/classificacoes-de-bug.md)
+* [Checklist do tester](bug/checklist-do-tester.md)
 
 ## Zephyr
 
