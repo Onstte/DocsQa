@@ -1,3 +1,7 @@
+---
+icon: list
+---
+
 # Checklist do tester
 
 #### Checklist de Verificação de QA em Ambiente Web (Incluindo Comparação com Figma)
