@@ -35,3 +35,70 @@ Veja como estas palavras chaves devem ser utilizadas:
 * Então: Seguindo a ação descrita no QUANDO define o resultado esperado para o seu teste
 * E: adiciona uma sentença positiva no Dado, no Quando ou no Então.&#x20;
 
+
+
+***
+
+&#x20;significados e exemplos para cada palavra-chave:
+
+*   **Feature** = Funcionalidade
+
+    ```
+    Feature: Validação de coparticipação
+      Para garantir cálculos corretos de coparticipação,
+      Como usuário,
+      Quero validar diferentes cenários.
+    ```
+*   **Scenario** = Cenário
+
+    ```
+    Scenario: Calcular coparticipação corretamente
+      Given o usuário acessa a tela de cálculo
+      When insere os valores necessários
+      Then o cálculo deve estar correto
+    ```
+*   **Scenario Outline** = Cenário Esquemático
+
+    ```
+    Scenario Outline: Testar diferentes valores de coparticipação
+      Given o usuário acessa a tela de cálculo de coparticipação
+      When insere "<valor>" no campo de entrada
+      Then o sistema deve calcular "<resultado>"
+
+      Examples:
+        | valor | resultado |
+        | 100   | 10        |
+        | 200   | 20        |
+    ```
+*   **Background** = Contexto
+
+    ```
+    Background:
+      Given o usuário está logado no sistema
+    ```
+*   **Given** = Dado / Dada (Pré-condição)
+
+    ```
+    Given o usuário acessa a tela de cálculo de coparticipação
+    ```
+*   **When** = Quando (Ação)
+
+    ```
+    When insere os valores necessários
+    ```
+*   **Then** = Então (Resultado Esperado)
+
+    ```
+    Then o cálculo deve estar correto
+    ```
+*   **And** = E (Condição Adicional)
+
+    ```
+    And escolhe a opção "Coparticipação"
+    ```
+*   **But** = Mas (Exceção)
+
+    ```
+    But o sistema exibe uma mensagem de erro
+    ```
+

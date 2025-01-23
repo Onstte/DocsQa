@@ -16,7 +16,6 @@
 * [📔 O que é Zephyr](zephyr/o-que-e-zephyr.md)
 * [📪 Como fazer um zephyr](zephyr/como-fazer-um-zephyr/README.md)
   * [Escrita do BDD](zephyr/como-fazer-um-zephyr/escrita-do-bdd.md)
-  * [Fazendo um BDD](zephyr/como-fazer-um-zephyr/fazendo-um-bdd.md)
 
 ## FIGMA
 
